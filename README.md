@@ -25,7 +25,7 @@ To understand how users interact with the design and make improvements based on 
 | Version               | Description                                 | Link                                                                                                                                  |
 | --------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 🧩 Before Testing     | Initial 4-page version                      | [View Prototype (Before)](https://www.figma.com/proto/hRDTqnMBqobN7PsKlp0bwp/To-do-list?node-id=6-4&starting-point-node-id=8%3A3611&t=moaqzuCVTEbM1FgP-1)                         |
-| 🚀 After Improvements | Final updated version (all pages completed) | [View Prototype (After)]([https://www.figma.com/design/0ts4jopA35i06RmySTxmVC/TO-DO-LIST-updated?node-id=0-1&p=f&t=yj0KYiLMpwbfzgH2-0]) |
+| 🚀 After Improvements | Final updated version (all pages completed) | [View Prototype (After)](https://www.figma.com/design/0ts4jopA35i06RmySTxmVC/TO-DO-LIST-updated?node-id=0-1&p=f&t=yj0KYiLMpwbfzgH2-0) |
 
 ---
 
